@@ -23,7 +23,7 @@ You can install the necessary libraries by running the 'requirements.txt' file
 
 ## How It Works
 
--User Input:
+-User Input-
 The user provides the following details:
 
 -Region: Selected from a list of predefined locations.

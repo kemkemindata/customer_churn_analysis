@@ -1,6 +1,6 @@
 ## Client Churn Analysis
 This project is designed to predict client attrition using a simple web application built with Streamlit. 
-Users can input various attributes related to customer behavior, such as location, tenure, revenue, and activity, and the model predicts whether the client will continue with the company.
+Users can input various attributes related to customer behavior, such as location, tenure, revenue, and activity, and the model predicts whether or not  the client will continue with the company.
 
 ## Features
 
@@ -32,7 +32,7 @@ The user provides the following details:
 
 -Revenue: The client's revenue generated.
 
--MRG (Churn Status): A Yes/No selection indicating if the user is currently considering leaving the company.
+-MRG : A Yes/No selection indicating if the user has been considering leaving the company or not.
 
 -Regularity: The number of times the user has been active in the last 90 days.
 
